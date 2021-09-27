@@ -9,3 +9,7 @@ This repository particularly focuses at the 2D strokes that can be made with the
 Python3
 
 Matplot library installed
+
+
+# Install and run through gitbash or CMD
+git clone https://github.com/SahilShrivastava-Dev/Computer-graphics
